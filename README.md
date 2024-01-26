@@ -5,7 +5,7 @@ encrypter for image and text
 
 1. pip install git
 2. git clone https://github.com/zerodamp/EFIAT
-3. cd EFIAT
+3. cd EFIAT-main
 4. Download the requirements by typing "pip install requirements.txt" in the console
 5. type "python -m venv myenv" in the console
 6. after completing step 5 type ".\myenv\Scripts\activate" in the console
